@@ -1,2 +1,2 @@
 # practice-exercise1
-hello! this is Mark repository
+hello this is Mark repository!
